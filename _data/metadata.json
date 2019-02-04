@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
+  "title": "D.A. Kahn's Blog",
   "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "A blog about web accessibility by D.A. Kahn",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Cool, hi. I'm D.A. Kahn.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "D.A. Kahn",
+    "email": "dakahn@protonmail.com"
   }
 }
